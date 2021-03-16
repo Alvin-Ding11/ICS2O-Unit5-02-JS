@@ -1,0 +1,19 @@
+#buttond {
+  border: 2px solid black;
+  padding: 5px;
+  text-align: center;
+  color: yellow;
+  background-color: darkslategray;
+}
+
+#buttonn {
+  border: 2px solid black;
+  padding: 5px;
+  text-align: center;
+  color: darkslategray;
+  background-color: yellow
+}
+
+body {
+  background-color: brown;
+}
